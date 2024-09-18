@@ -93,6 +93,6 @@ The project is open source and free to use. Please cite this work in your public
   author       = {Hamadouche, Mohand},
   title        = {Self-adaptation based rewards tuning for mission planning in Multi-UAV Systems},
   year         = {2024},
-  url          = {https://github.com/MohandHAMADOUCHE/Self-adaptation-Multi-UAV-System.git},
+  url          = {https://github.com/MohandHAMADOUCHE/Self-adaptation-Multi-UAV-System},
   note         = {GitHub repository, accessed September 18, 2024},
 }
